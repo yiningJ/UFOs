@@ -7,11 +7,18 @@ By adding additional filters and better searching experience to the webpage and 
 
 ## Results
 
-### As we see the theme is consistent across the whole page by applying CLASS.
+### 
+As we see the theme is consistent across the whole page by applying CLASS.
 ![Image 1](https://github.com/yiningJ/UFOs/blob/main/static/images/Image%201.png)
+
+After we apply the new changes, more searching options have been provided, see image below.
+![Image 2](https://github.com/yiningJ/UFOs/blob/main/static/images/Image%202.png)
+
+And we are allowing users to apply multiple criterias to see the updated table as image shown below.
+![Image 3](https://github.com/yiningJ/UFOs/blob/main/static/images/Image%203.png)
 
 ## Summary
 
-### What are two conclusions you can draw about the Outcomes based on Launch Date?
-- Firstly, we can conclude that May is the best month of the year to launch campaign in theatre but be prepared for the fierce competition.
-- Secondly, usually there are more successful campaigns in theatres compared to failed ones except in December, which could be attributed to that people go for vacations in holiday.  
+### Drawback and recommendations
+Right now users need to click on somewhere else on the page to launch the filter change, which is not very convenient. 
+I recommend to add a button for users to click on after finish inserting the filter. Also we should provide a dropdown list for users to select from because it's very hard for user to know all the options.
